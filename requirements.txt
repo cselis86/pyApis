@@ -1,0 +1,3 @@
+nba_api
+matplotlib
+pandas
